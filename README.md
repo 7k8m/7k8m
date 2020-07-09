@@ -9,6 +9,7 @@
 
 # Not programming
 * [entomophagy.or.jp](https://www.entomophagy.or.jp/)
+* [entomophagy facebook group](https://www.facebook.com/groups/entomophagy)
 
 # SNS
 * [Facebook](https://www.facebook.com/Tomohito.Nakayama)
