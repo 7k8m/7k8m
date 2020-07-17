@@ -6,6 +6,7 @@
 # Involved
 * [Apache Derby](http://db.apache.org/derby/)
 * [Deno](https://github.com/denoland/deno)
+* [osquery](https://github.com/osquery/osquery)
 
 # Not programming
 * [entomophagy.or.jp](https://www.entomophagy.or.jp/)
