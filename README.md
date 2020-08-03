@@ -2,6 +2,7 @@
 * [DirectSQL](https://github.com/DirectSQL/DirectSQL)
 * [MikeKiji](https://github.com/7k8m/mikekiji)
 * [HodogayaMap](https://www.facebook.com/hodomap/)
+* [json.filed](https://github.com/7k8m/json.filed)
 
 # Involved works
 * [Apache Derby](http://db.apache.org/derby/)
