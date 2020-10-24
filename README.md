@@ -2,6 +2,7 @@
 * [DirectSQL](https://github.com/DirectSQL/DirectSQL)
 * [MikeKiji](https://github.com/7k8m/mikekiji)
 * [HodogayaMap](https://www.facebook.com/hodomap/)
+* [ClipboardTool](https://github.com/7k8m/ClipboardTool)
 * [json.filed](https://github.com/7k8m/json.filed)
 * [OAuthLib](https://archive.codeplex.com/?p=oauthlib)
 
