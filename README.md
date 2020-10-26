@@ -11,6 +11,7 @@
 * [Deno](https://github.com/denoland/deno)
 * [lwan](https://github.com/lpereira/lwan)
 * [osquery](https://github.com/osquery/osquery)
+* Projects as employee are confidential
 
 # Ohter than programming
 * [entomophagy.or.jp](https://www.entomophagy.or.jp/)
