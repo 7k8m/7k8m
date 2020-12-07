@@ -2,6 +2,7 @@
 ## My own works
 * NET
   * [DirectSQL](https://github.com/DirectSQL/DirectSQL)
+  * [HrTask](https://github.com/DirectSQL/HrTask)
   * [ClipboardTool](https://github.com/7k8m/ClipboardTool)
   * [OAuthLib](https://archive.codeplex.com/?p=oauthlib)
 * iPhone App
