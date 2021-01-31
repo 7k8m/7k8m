@@ -6,7 +6,7 @@
   * [ClipboardTool](https://github.com/7k8m/ClipboardTool)
   * [OAuthLib](https://archive.codeplex.com/?p=oauthlib)
 * iPhone App
-  * [HodogayaMap](https://www.facebook.com/hodomap/)([AppStore](https://apps.apple.com/jp/app/保土ケ谷歴史歩き/id720126011))
+  * [HodogayaMap](https://www.facebook.com/hodomap/)([App Store](https://apps.apple.com/jp/app/保土ケ谷歴史歩き/id720126011))
 * Node.js
   * [json.filed](https://github.com/7k8m/json.filed)
 * Web
