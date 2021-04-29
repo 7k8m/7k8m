@@ -4,7 +4,7 @@
   * [DirectSQL](https://github.com/DirectSQL/DirectSQL)
   * [HrTask](https://github.com/DirectSQL/HrTask)
   * [ClipboardTool](https://github.com/7k8m/ClipboardTool)
-  * [OAuthLib](https://archive.codeplex.com/?p=oauthlib)
+  * [OAuthLib](https://github.com/7k8m/OAuthLib)
 * iPhone App
   * [HodogayaMap](https://www.facebook.com/hodomap/)([App Store](https://apps.apple.com/jp/app/保土ケ谷歴史歩き/id720126011))
 * Node.js
