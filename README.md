@@ -20,7 +20,7 @@
 * [osquery](https://github.com/osquery/osquery)
 * Works as employee are confidential 🙊
 
-# Activity ohter than programming
+# Activity other than programming
 * [entomophagy.or.jp](https://www.entomophagy.or.jp/)
 * [entomophagy facebook group](https://www.facebook.com/groups/entomophagy)
 
