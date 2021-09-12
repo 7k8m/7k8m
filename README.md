@@ -27,3 +27,4 @@
 # SNS
 * [Facebook](https://www.facebook.com/Tomohito.Nakayama)
 * [Twitter](https://twitter.com/7k8m)
+* [Mastodon](https://entomophagy.world/)
