@@ -23,8 +23,9 @@
 # Activity ohter than programming
 * [entomophagy.or.jp](https://www.entomophagy.or.jp/)
 * [entomophagy facebook group](https://www.facebook.com/groups/entomophagy)
+* [entomophagy.world](https://entomophagy.world)
 
 # SNS
 * [Facebook](https://www.facebook.com/Tomohito.Nakayama)
 * [Twitter](https://twitter.com/7k8m)
-* [Mastodon](https://entomophagy.world/)
+* [Mastodon](https://entomophagy.world/@7k8m)
