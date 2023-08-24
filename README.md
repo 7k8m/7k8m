@@ -30,7 +30,7 @@
 
 # SNS
 * [Facebook](https://www.facebook.com/Tomohito.Nakayama)
-* [Twitter](https://twitter.com/7k8m)
+* [X](https://x.com/7k8m)
 * [Mastodon](https://entomophagy.world/@7k8m)
 
 ---
