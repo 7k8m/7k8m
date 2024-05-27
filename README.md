@@ -31,7 +31,7 @@
 # SNS
 * [Facebook](https://www.facebook.com/Tomohito.Nakayama)
 * [X](https://x.com/7k8m)
-* [Mastodon](https://entomophagy.world/@7k8m)
+* [entomophagy.world(Mastodon)](https://entomophagy.world/@7k8m)
 
 ---
 [![FSF member from Nov 2021](5734680.png)](https://www.fsf.org/)
