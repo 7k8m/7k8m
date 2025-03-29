@@ -11,7 +11,7 @@
 * Node.js
   * [json.filed](https://github.com/7k8m/json.filed)
 * Web
-  * [MikeKiji](https://github.com/7k8m/mikekiji)([toy server](https://toy.7k8m.com/mikekiji_pict/))
+  * [MikeKiji](https://github.com/7k8m/mikekiji)([toy server](https://mikekiji.7k8m.com))
   * [sandcat](https://github.com/7k8m/sandcat)
 * C
   * [loopever](https://github.com/7k8m/loopever)
