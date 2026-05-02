@@ -24,6 +24,7 @@
 * Work done as an employee is confidential 🙊
 
 # Activities beyond programming
+
 * [entomophagy.or.jp](https://www.entomophagy.or.jp/)
 * [entomophagy facebook group](https://www.facebook.com/groups/entomophagy)
 
